@@ -1,0 +1,27 @@
+[
+    {
+        "id":"p001",
+        "name":"Mobile",
+        "brand":"oneplus",
+        "price":573000.00
+    },
+    {
+        "id":"p002",
+        "name":"latop",
+        "brand":"HP",
+        "price":563000.00
+    },
+    {
+        "id":"p003",
+        "name":"Refrigator",
+        "brand":"whirpool",
+        "price":63000.00
+    },
+    {
+        "id":"p004",
+        "name":"music",
+        "brand":"jbl",
+        "price":6300.00
+    }
+]
+
